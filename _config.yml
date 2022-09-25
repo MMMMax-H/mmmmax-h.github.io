@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        A Personal Website
+tagline:      A practice for creating a web page with GitHub Pages
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       MMMMax
+  url:        https://mmmmax-h.github.io 
 
 # Gems
 gems:
